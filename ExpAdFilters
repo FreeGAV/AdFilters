@@ -473,17 +473,13 @@ xingkbjm.com###wowslider-container1
 xingkbjm.com##.d_postlist.widget
 xposed.appkg.com##div[class="spu-box  spu-centered spu-total- "]
 xposed.appkg.com##div[class="spu-bg"]
-g.wan.douyu.com
 youku.com##div[class="ad-wrap"]
 youku.com##div[class="yk-playpage-ad"]
 ixigua.com##.teleplay__playerContainer__playerlogo
 adcxxe.com###slideBox
 ypojie.com##div[class="widget widget_media_image"]
-||sta-op.douyucdn.cn/dypay/2019/09/11/13d0c0e7f2958bc787cdc0b89061e34f.png$image
-||shark2.douyucdn.cn/front-publish/live-master/assets/images/close_01dccde.webp$image
 fulibus.net##div[class="widget widget_ui_textasb"]
 fulibus.net##.excerpt-1.excerpt
-! 2019/9/17 https://userstyles.org
 userstyles.org##.overlay_background
 userstyles.org/ui/images/1172x156.png
 right.com.cn/forum/data/attachment/common/cf/*
@@ -842,15 +838,7 @@ lanzou8.com##center:nth-of-type(2)
 lanzou8.com##[href="https://lanzous.com/ic35c0h/"]
 gy007.com###notice
 007ts.co##.hidden_xs.play_share
-|https://sta-op.douyucdn.cn/front-publish/butterfly-
-apm.douyucdn.cn
-apmconfig.douyucdn.cn
-butterfly.douyucdn.cn
-gift.douyucdn.cn
-dotcounter.douyucdn.cn
-p2pchunk-table.douyucdn.cn
-p2pchunk-ws.douyucdn.cn
-www.007ts.co###mq
+007ts.co###mq
 avgle.com##div.alert-danger.alert-dismissable.alert
 avgle.com##.col-sm-5.col-md-4
 avgle.com###player_3x2_container
@@ -876,8 +864,7 @@ api.mvcat.com/wx/follow.js
 ##div[class="popup_notification upgrade"]
 ||a.msstatic.com/huya/main3/common/assets/css/header/ad_*
 bbs.wuyou.net##[href^="http://www.diskgenius.cn/"]
-||shark2.douyucdn.cn/front-publish/new-revenue-web-front-master/images/*.png$image
-right.com.cn##[href="https://jd.dangbei.com/f3.html"]
+right.com.cn##[href*="https://jd.dangbei.com/"]
 right.com.cn##[href="http://kuyunzy.co"]
 fanyi.baidu.com##.app-side-ad
 fanyi.baidu.com##.spread-wrap
@@ -1047,11 +1034,6 @@ coudian.com/js/head.js
 yy.com##.banner-inner
 yy.com###drawerGetAppQrbox
 yy.com###sideNotice
-douyu.com##.layout-Banner
-douyu.com##.video-above
-douyu.com##.multiBitRate-da4b60
-douyu.com##.SuperFansGuideTips
-douyu.com##.is-show.AppFlow
 ubaq.ys168.com###zdy_wz0
 ||netded.com/templets/gfan/js/global.js
 ||netded.com/plus/ad_
@@ -1084,9 +1066,6 @@ winos.me###custom_html-2
 ||i8.i8ggwm.com^
 pianba.tv##.stui-content__side
 yinyue.qugeek.com###firstScreen
-douyu.com##.recommendAD-54569e
-douyu.com##.recommendApp-0e23eb
-douyu.com##.PrivilegeGiftModalDialog
 coolcloudx.com##dl[class*="ad"]
 coolcloudx.com##.download2 > div:nth-of-type(1)
 coolcloudx.com##.download2 > div:nth-of-type(3)
@@ -1105,9 +1084,7 @@ github.com##.rounded-1.signup-prompt-bg
 ||tool.9ccmsapi.com/Img3/$image
 ##[href="http://feili.pw.65768.com.cn"]
 riayibi.com###page1
-douyu.com###douyu_room_normal_player_danmuDom > .ani-base-hover.DanmuEffectBC.ani-broadcast
 gitee.com##[href^="https://gitee.com/Selected-Activities/Adapted-game/"]
-douyu.com##div.SysSign-Ad:nth-of-type(1)
 ||pc.cathaycentury.com/pc/rich-tf.js
 ||s.7384tv.com/bdfilm_v3/img/hamster.swf
 ||v6.klmc88.cn/c/*
@@ -1722,9 +1699,6 @@ zz.ci##.swiper-slide-active.active.hl-slide-swiper.hl-tabs-btn
 zz.ci##[href="https://zz.ci/app"]
 zz.ci##.hl-foot-extra
 ##[href="https://www.wade02.com/landing_customize.html#register"]
-douyu.com##.FreeTimeAd
-douyu.com##.Game.public-DropMenu
-douyu.com##[href="//yuba.douyu.com"]
 autohome.com.cn##[href^="https://clickx.autohome.com.cn/click"]
 autohome.com.cn##[href^="https://www.athmapp.com/apps/main/"]
 autohome.com.cn##[class="advbox monkeyfix"]
@@ -1734,6 +1708,34 @@ autohome.com.cn##.integration-right
 autohome.com.cn##.finance-right
 autohome.com.cn##.mt10.monkeyfix.monkey
 autohome.com.cn##.mt20.monkeyfix.monkey
+douyu.com##.FreeTimeAd
+douyu.com##.Game.public-DropMenu
+douyu.com##[href="//yuba.douyu.com"]
+||g.wan.douyu.com^
+douyu.com##.panel2-5ece0e
+douyu.com##.mask2-a8df6e
+douyu.com##.textpanel-ddcbce
+||sta-op.douyucdn.cn/dypay/2019/09/11/13d0c0e7f2958bc787cdc0b89061e34f.png$image
+||shark2.douyucdn.cn/front-publish/live-master/assets/images/close_01dccde.webp$image
+||shark2.douyucdn.cn/front-publish/new-revenue-web-front-master/images/*.png$image
+|https://sta-op.douyucdn.cn/front-publish/butterfly-
+apm.douyucdn.cn
+apmconfig.douyucdn.cn
+butterfly.douyucdn.cn
+gift.douyucdn.cn
+dotcounter.douyucdn.cn
+p2pchunk-table.douyucdn.cn
+p2pchunk-ws.douyucdn.cn
+douyu.com##.layout-Banner
+douyu.com##.video-above
+douyu.com##.multiBitRate-da4b60
+douyu.com##.SuperFansGuideTips
+douyu.com##div.SysSign-Ad:nth-of-type(1)
+douyu.com##.is-show.AppFlow
+douyu.com##.recommendAD-54569e
+douyu.com##.recommendApp-0e23eb
+douyu.com##.PrivilegeGiftModalDialog
+douyu.com###douyu_room_normal_player_danmuDom > .ani-base-hover.DanmuEffectBC.ani-broadcast
 douyu.com##.is-normal.ToolBarTips-common
 douyu.com###RandomPKBar-container
 douyu.com##.is-mask.MedalUserGuide
@@ -1754,11 +1756,13 @@ sp.lujiahb.com/layer/layer.js
 zhenbuka.com###md112
 bde4.cc###ayx
 bde4.cc##h5
+##.SignBaseComponent-sign-ad
+##.Bottom-ad
+douyu.com##.FirstRechargePayPanel
 douyu.com###js-room-activity
 douyu.com##.FirePower
 douyu.com##.LiveRoomDianzan
 douyu.com##.FollowGuide-FadeIn.FollowGuide
-douyu.com##.PlayerToolbar-FishpondTreasure
 douyu.com##.ActCenterPkEntry
 douyu.com##.FirstRecharge
 douyu.com##.FishballTreasure
@@ -1766,7 +1770,8 @@ douyu.com##.PrivilegeGiftEnter
 douyu.com##.ActivityEnter-img
 douyu.com##.PropRedEnvelopeIcon
 douyu.com##.GuessIcon
-douyu.com##.ToolbarActivityArea
+douyu.com##.ConfigBroadcast.ani-broadcast
+douyu.com##.broadcastDiv-af5699
 k1080.net##.layui-layer-page.layui-layer
 k1080.net###layui-layer-shade1
 1090ys2.com##.idcloseadtips
@@ -1788,7 +1793,6 @@ v.qq.com##.x_fixed_tool
 v.dsb.ink##.popup__show.popup
 aijula.com##.tips.layout-box
 /service-worker.js
-douyu.com##.FirstRechargePayPanel
 huya.com###player-marquee-2
 huya.com##.player-marquee-noble-item
 huya.com##.subscribe.player-subscribe-banner
@@ -1824,7 +1828,7 @@ nfmovies.com##[href="/app.html"]
 ||nfmovies.com/templets/default/images/logos/06.png
 nfmovies.com##div.container.myui-ra-container:nth-of-type(2)
 nfmovies.com##div.container.myui-ra-container:nth-of-type(3)
-nfmovies.com##.hidden-xs.dropdown-hover
+##.hidden-xs.dropdown-hover
 nfmovies.com##.digg_link
 nfmovies.com##li.dropdown-hover:nth-of-type(9)
 nfmovies.com###playlist3 > .col-pd.text-muted
@@ -1906,10 +1910,7 @@ hanmiys.com##.myui-panel_bd > .col-xs-1
 javtube.cc##.layui-layer-border.layui-layer-iframe.layui-layer
 kmaa7.com##.bigBannerBg
 ##[href^="https://www.highgg.com"]
-douyu.com##.ConfigBroadcast.ani-broadcast
-douyu.com##.broadcastDiv-af5699
 toolzl.com##[href^="https://cloud.tencent.com/act/cps/redirect"]
-douyu.com##div.PlayerToolbar-Content:nth-of-type(2)
 juhaokan.cc###like996_identification
 mail.qq.com##.bd.tipbook-top
 imj6.com##p:nth-of-type(3)
