@@ -102,6 +102,9 @@
 ##.a_d
 ##.Question-sideColumnAdContainer
 ##.clearfix.myui-extra
+###sideAdContainer
+##.side-ad-top
+##.trans-side-ad-wrap
 /ad.*
 /ads*
 /adv*
