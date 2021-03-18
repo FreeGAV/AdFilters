@@ -13,6 +13,8 @@
 ##.textads
 ##.sidebanner
 ##.dplayer-logo
+##.advertisement
+##.adlogin
 ###sponsorAdDiv
 ###sponsorAdDiv2
 ###sponsorAdCountdown
@@ -698,7 +700,6 @@ meijuxia.vip###layui-layer-shade1
 meijuxia.vip###layui-layer1
 meijutt.tv/js/pcjs/allads.js
 meijutt.tv/js/pcjs/content_960_2.js
-meijutt.tv/template/meijutt/js/common1.js
 meijutt.tv###LAY_layuipro
 ##[href^="https://ddkeigfopz.com:8888/"]
 ##[href="http://www.bob1033.com"]
@@ -1930,3 +1931,9 @@ v.dtjos.com##.hidden_xs.play_share
 dikotv.com##.layer
 dikotv.com/static/player/jx/fuck.js
 dikotv.com##.panel
+bilibili.com##.draft-holder-block
+douyu.com##.player-dialog
+winxray.com##.content-section.content-section-spacing-large.content-5m
+pan.baidu.com##.rights-section
+meijutt.tv##.widget-weixin
+meijutt.tv##.content-site-notice
