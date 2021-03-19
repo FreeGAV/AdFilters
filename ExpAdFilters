@@ -1,6 +1,6 @@
 ! Title:  ExpAdFilters
-###ADtip
-##ADplayer
+##.adimg
+##.ad_box
 ##.vjs-ad
 ##.leleplayer-logo
 ##.close-box.tips
@@ -11,6 +11,10 @@
 ##.notice-foot
 ##.notice-cont
 ##.textads
+##.ad-ca.ad
+###ad_pop
+###ad_qll_width
+##.txp_ad_center.txp_ad
 ##.sidebanner
 ##.dplayer-logo
 ##.advertisement
@@ -22,7 +26,19 @@
 ###adleft
 ###adright
 ###playad
+##._new_ad
+##.mod_ad
 ###module_ad
+##.cblock.m_qrcode.play_vlist
+##.pannel.ads_box.clearfix
+##.ads.ads_w
+##.modown-ad
+##.adcp-bd
+###ad_activity
+###adcpdown-modal-sm
+##.in.fade.modal-backdrop
+##div.video-item-ads.videos-item.col-xlg
+##.video-player-custom-wrapper-txt
 ###ad_container
 ##.google-ad
 ##.ads
@@ -62,6 +78,8 @@
 ###guanggao
 ###pop_ad
 ###favCanvas
+##.player_bg_ad
+##.player_bg_ad_close
 ###ad
 ###ad_a
 ###ad_img
@@ -74,6 +92,13 @@
 ###module_ad_
 ##ad-wrap
 ##videoAd
+###ADplayer
+###ADtip
+###adplayer
+###dplayer-ad
+###ad-img
+###ad-url
+###adContent
 ##palyAdv.ps_21
 ###branding_ads
 ##fed-play-advs
@@ -353,15 +378,6 @@ v.youku.com##.qr-wrap
 v.youku.com##.phone-watch-notice
 v.youku.com###LiveGuide
 v.youku.com###nonmeminfo
-v.qq.com##.tvip_layer
-v.qq.com###mask_layer
-v.qq.com###_vip_player_sec
-v.qq.com##.mod_scene_change
-v.qq.com###top_followSeries
-v.qq.com##.txp_popup_sukan
-v.qq.com##.txp_video_fit_cover.txp_video_container > .txp_shadow
-v.qq.com##.txp_popup_download
-v.qq.com###preheat-video-container
 v.pptv.com##.sus-item-sub
 v.pptv.com###video-download-game
 v.pptv.com##.download-btn
@@ -513,8 +529,6 @@ youku.com##div[id*="ab_"]
 internal-amis-res.cdn.bcebos.com/images/*
 tb1.bdstatic.com/tb/cms/*
 hywm1.com###vjs_video_3_html5_api
-v.qq.com##._new_ad
-v.qq.com##.mod_ad
 lelekan.com##.bdshare-slide-button
 /template/mov/js/pc.js
 /template/mov/js/300.js
@@ -562,7 +576,6 @@ ixigua.com##img[class="common-xgplayer__RTLogo"]
 kanliuxing.com##div[class="wp aklx_t"]
 kanliuxing.com/images/mogui001.png
 vip.rajbot.com
-v.qq.com##.mod_vip_popup.wrapper
 i.niupic.com/images/*
 upload.cc/i1/*
 v99home.com##.top
@@ -616,7 +629,6 @@ tags.expo9.exponential.com/tags/MyDigitalLife/Forums/tags.js
 kmysw.vip##li[class="dropdown-hover hidden-xs"]
 kmysw.vip##div[class="col-md-wide-3"]
 yunbtv.com###topInfo
-yue365.com###ad_pop
 2hanju.com##.xuanfu
 2hanju.com##.playright
 2hanju.com##div.contain_con:nth-of-type(1)
@@ -648,7 +660,7 @@ gvideoyy.com##.iptit
 yykdy.cn##li.searchlist_item:nth-of-type(1)
 ztqsp.com###layui-layer1
 ztqsp.com###layui-layer-shade1
-v.qq.com##.txp_top_btns
+
 ||www.ztqsp.com/img/pa.gif$image
 ||http://ykugc.cp31.ott.cibntv.net
 meiju22.com##div[id="fc"]
@@ -808,7 +820,6 @@ juhuitv.com##.downLoaderImg___20c9W
 juhuitv.com##.ipfsInit___1OXhJ > div > div
 juhuitv.com##p:nth-of-type(2)
 juhuitv.com##.container___2zmq0
-v.qq.com##div[id*=ad_qll_width]
 js.pyxjwks.com
 mahuazy.com/images/960-60.gif
 01gq.com##.clearfix.stui-pannel-box > .col-pd > .text-center
@@ -997,7 +1008,7 @@ nksee.com##.stui-pannel_bd > .text-center
 nksee.com##.clearfix.stui-extra
 bdimg.share.baidu.com
 meijuxia.vip##.ff-share
-z.njcn888.com
+||njcn888.com^
 ?ad=
 /*_float.js
 ||web.openinstall.io/web/g2ad0t/
@@ -1008,10 +1019,7 @@ juji.tv/Runtime/js/new.js
 juji.tv/Runtime/js/vodlist_cpv.js
 juhuitv.com##.xgplayer-enter
 bingfengyl.com/zb_users/theme/Frozen/style/images/side/
-052289.com
-v.qq.com##.action_qrcode.action_item
-v.qq.com##.action_share.action_item
-v.qq.com##.action_download.action_item
+||052289.com^
 ddrk.me/pbw/333.jpg
 ddrk.me/mtp/a2dc053a2eab8dbt.png
 vip1.loli.net/2020/02/17/A9jmsY41EwiUzou.png
@@ -1158,7 +1166,6 @@ hua20.cn/js/player_top.js
 /web/default_ad.js
 ||wa.gtimg.com^
 /box-static/function-widget-1/pkg/guide-
-v.qq.com##.txp_ad_center.txp_ad
 ||k.qsbxg2.com^
 ||s8tu.info^
 ||kjah3gh.info^
@@ -1175,8 +1182,6 @@ baiduyunbo.com##.myButtonDom
 5aikp.com##[src="/template/qmwl/asset/js/f12.js"]
 v.bjsjpd.cn/encryption_and_decoding/Encryptionanddecryption.nian?time=*
 n333.cn###bofy > .clearfix.pannel_head > font
-n333.cn###ad
-n333.cn###adplayer
 n333.cn###player_pause
 n333.cn##.hidden_xs.play_share
 ||n333.cn/template/conch/asset/js/hlhtml.js
@@ -1268,11 +1273,6 @@ kufile.net###down_link_box > li:nth-child(3)
 kufile.net###down_link_box > li:nth-child(5)
 ##[href^="http://nsub2.90pan.net:81/data/dl/"]
 zlyk.com##[href="/tuijian/"]
-###dplayer-ad
-###ad-img
-###ad-url
-##.ad_box
-###adContent
 zlyk.com##.playtop
 zlyk.com##.qqgroup
 humen7.com##[href="https://www.2020dy.top/"]
@@ -1367,13 +1367,10 @@ api.gtvbb0x.com/Videos/GetPsData/
 ||yh300.vip^
 ##[href="http://js2008.jsyl555.vip:151/020"]
 ##[href="http://87233300.com:8723/79"]
-greasyfork.org##.ad-ca.ad
 sharechain.qq.com##.mod-guide-bar
-v.qq.com###container_player > .container_inner > .player_container > .mod_player_side > .player_side_hd
 /live2d-widget/autoload.js
 47.103.222.223##.clearfix.foot_nav.foot > .container > .clearfix.extra > li
 trovand.com##.h2_closeclick
-trovand.com###ad
 ##[href^="926coffee.xyz"]
 ##[href="http://2020.yu77.com/"]
 zavnn.com##[href="https://zsd.so/qTw8u"]
@@ -1436,9 +1433,6 @@ cloud.qingstore.cn##body > center
 v.hdbl.net##.gg
 v.hdbl.net##.el-link--inner
 ##[href="https://p.pstatp.com/origin/febf00024abd6c9db701"]
-##.adimg
-###ADplayer
-###ADtip
 ||zx1080.com##[id="player_pause"]
 ##[title="点击关闭广告"]
 huya.com##.helperbar
@@ -1540,9 +1534,6 @@ cn.pornhub.com###pb_block
 52pojie.cn###aimg_2149756_menu
 1090ys1.com###qrcode2
 ##[href="https://gitee.com/features/gitee-go"]
-##.adimg
-###ADplayer
-###ADtip
 kanju77.com###player_pause
 ##[href="https://ty22i.com/?cqzyw"]
 ||dililitv.com/player/app/loadpc.gif
@@ -1709,7 +1700,6 @@ autohome.com.cn##[href^="https://c.autohome.com.cn/adfront/click"]
 ||*.autoimg.cn/admdfs/*
 ||*.autohome.com.cn/adfront/*
 autohome.com.cn###auto-brand-vr
-autohome.com.cn###ad_activity
 autohome.com.cn##div.aside-section:nth-of-type(2)
 zz.ci##.hl-pops-bg-active.hl-pops-bg
 zz.ci##.hl-bg-site.hl-poptips-wrap
@@ -1760,9 +1750,6 @@ hao123.com##.firstwm.wm
 hao123.com##li.wm
 bilibili.com##.login-tip
 bilibili.com##.unlogin-popover-avatar.unlogin-popover
-v.qq.com##.player_bg_ad
-v.qq.com##.player_bg_ad_close
-v.qq.com##.x_fixed_tool
 ||img1.gtimg.com^
 v.dsb.ink##.popup__show.popup
 aijula.com##.tips.layout-box
@@ -1771,7 +1758,6 @@ huya.com###player-marquee-2
 huya.com##.player-marquee-noble-item
 huya.com##.subscribe.player-subscribe-banner
 ||mdoutv.com/wp-content/plugins/hashbar-wp-notification-bar/
-v.qq.com##.quick_tips_inner
 n7f6.cn##p:nth-of-type(2)
 zz.ci##.l.player_title > .mac_ulog
 zz.ci##div.ecfx.hidden_xs.play_share:nth-of-type(2)
@@ -1850,15 +1836,6 @@ nfstar.net##[href="/artdetail-2002.html"]
 adzone=
 /getAd
 /advanced-floating
-##.cblock.m_qrcode.play_vlist
-##.pannel.ads_box.clearfix
-##.ads.ads_w
-##.modown-ad
-##.adcp-bd
-###adcpdown-modal-sm
-##.in.fade.modal-backdrop
-##div.video-item-ads.videos-item.col-xlg
-##.video-player-custom-wrapper-txt
 aqdlt.com##div.nav-items.row > .col-md-12
 aqdlt.com###footer > .row > .col-md-12
 ##[href^="https://vip.huijujiavip.com:8443"]
@@ -1937,3 +1914,4 @@ winxray.com##.content-section.content-section-spacing-large.content-5m
 pan.baidu.com##.rights-section
 meijutt.tv##.widget-weixin
 meijutt.tv##.content-site-notice
+v.qq.com###_vip_player_sec
