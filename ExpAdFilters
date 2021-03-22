@@ -1932,5 +1932,9 @@ v.qq.com###ad_qll_width3
 v.qq.com##.mod_ad_main
 v.qq.com##.txp_btn_popup.txp_btn
 douyu.com##.SuperFansGuideTips
-douyu.com###room-html5-player
+douyu.com##.layout-Banner
+douyu.com##.ToolbarActivityArea
+douyu.com##.DanmuEffectDom
+douyu.com##.PlayerToolbar-getYCArea
+douyu.com###RandomPKBar-container
 
