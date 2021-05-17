@@ -1992,7 +1992,6 @@ ghxi.com##.widget_html_ad.widget
 ghxi.com###custom_html-10
 ghxi.com##.ad_single_1.wpcom_ad_wrap
 ghxi.com##.ad_single_2.wpcom_ad_wrap
-*banner.*$image
 nfxhd.com##.layui-layer-page.layui-layer
 nfxhd.com###layui-layer-shade1
 1090ys2.com##.layer
@@ -2072,3 +2071,9 @@ tool.chinaz.com##[id="toolsIntro"]
 tool.chinaz.com##[id*="AD"]
 ||j.sdqoi2d.com/r/m*
 /js/pc_pf.js
+fantuan.tv###layui-layer-shade1
+fantuan.tv##.layui-layer-page.layui-layer
+##[href="https://yun.hei521.cn/index.php/1970.html"]
+a2f590.link.yunpan.360.cn##.fangcloud
+##[href^="https://www.10086.cn/5Gplus"]
+iqiyi.com###block-H > .qy-mod-list > .qy-g-wrap.qy-mod-li
