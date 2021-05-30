@@ -45,3 +45,5 @@ youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAd
 /adview
 /api/stats/ads
 /ad_
+youtube.com###content > .ytd-rich-section-renderer.style-scope
+youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
