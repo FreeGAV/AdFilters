@@ -2053,7 +2053,6 @@ zhenbuka2.com##.row > .clearfix.stui-pannel-box
 ||zhenbuka2.com/foot/foot.js
 ||zhenbuka.com/foot/foot.js
 ||lib.baomitu.com/layer/3.1.1/layer.js
-||zhenbuka2.com/extend/tncode/tn_code.js
 ||zhenbuka2.com/statics/img/load_w.png
 ||tva3.sinaimg.cn/large/006B0wiMly1g9p6az8374g305k08w0th.gif
 ||tva3.sinaimg.cn/large/006B0wiMly1g9p6az8374g305k08w0th.gif
@@ -2079,6 +2078,7 @@ a2f590.link.yunpan.360.cn##.fangcloud
 iqiyi.com###block-H > .qy-mod-list > .qy-g-wrap.qy-mod-li
 nfmovies.com##[href^="https://nf.brushshopy.com/"]
 agefans.net##.app-dl
+agefans.cc##.app-dl
 88kan.tv##.download
 wsba.com.cn##.hidden_xs.play_share
 wsba.com.cn##.hidden_mb.wx_but.playbtn
@@ -2122,4 +2122,5 @@ yanetflix.com##.ecfx.hidden_xs.play_share
 yanetflix.com##div.play_share:nth-of-type(1)
 ||img.4kya.com/2021/04/30/262b00430021756.jpg
 haimianys.com##li.mo-fsxs-16px.mo-coxs-iblock.mo-navs-item:nth-of-type(3)
-agefans.cc##.app-dl
+##[href="http://ly1111.vip"]
+zxzj.me##.none
